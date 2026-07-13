@@ -2,7 +2,7 @@
 
 Ce projet consiste en l'intégration web d'une maquette graphique dédiée à Riot Games. L'objectif était de transformer une conception visuelle (Figma) en une interface web interactive, moderne et responsive, en utilisant les bonnes pratiques HTML5 et CSS3.
 
-**Lien de la maquette figma entièrement créer par moi-même :** https://www.figma.com/design/gtUSkqfBXOsLDKXDMKZlJO/SAE1_RAHMANI_NASSER_Touboulic_Victor?node-id=0-1&t=Fh0uxgQDaX8pb21U-1
+**Lien de la maquette Figma entièrement créée par moi-même :** https://www.figma.com/design/gtUSkqfBXOsLDKXDMKZlJO/SAE1_RAHMANI_NASSER_Touboulic_Victor?node-id=0-1&t=Fh0uxgQDaX8pb21U-1
 ---
 
 ## Fonctionnalités Clés
